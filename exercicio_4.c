@@ -4,6 +4,7 @@
 #define METROS  0.3048
 int main(void){
     float milhas, pes;
+    //ouuuuuuuuuuuu
     printf("\nDigite o valor de milhas: \n");
     scanf("%f", &milhas);
     printf("\nDigite o valor de pes: \n");
