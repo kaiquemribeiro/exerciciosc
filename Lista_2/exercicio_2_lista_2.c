@@ -14,6 +14,5 @@ int main(void){
         printf("\n%2.f", aux);
     }
     
-    
     return 0;
 }
