@@ -1,3 +1,4 @@
+/*Imprime o mes de acordo com o numero*/
 #include <stdio.h>
 
 int main(void){

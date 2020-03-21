@@ -1,3 +1,4 @@
+/* Calcula f(x)*/
 #include <stdio.h>
 
 int main(void){
