@@ -5,6 +5,7 @@
 int main(void){
     float milhas, pes;
     //ouuuuuuuuuuuu
+    //ta
     printf("\nDigite o valor de milhas: \n");
     scanf("%f", &milhas);
     printf("\nDigite o valor de pes: \n");
