@@ -3,7 +3,7 @@
 
 int main(void){
     float altura, envergaduras, total;
-    
+    int testegit;
     printf("\nQual a altura?\n");
     scanf("%f", &altura);
     printf("\nQuantas envergaduras?\n");
